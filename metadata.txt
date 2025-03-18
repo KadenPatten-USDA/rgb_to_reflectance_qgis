@@ -12,8 +12,8 @@ email=kaden.patten@usda.gov
 
 about=This plugin takes in RGB images and converts them to reflectance values using a linear regression model
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/KadenPatten-USDA/rgb_to_reflectance_qgis/issues
+repository=https://github.com/KadenPatten-USDA/rgb_to_reflectance_qgis
 # End of mandatory metadata
 
 # Recommended items:
