@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/rgb_to_reflectance" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
